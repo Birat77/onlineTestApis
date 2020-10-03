@@ -1,0 +1,24 @@
+{
+    "orders": [
+        {
+            "name": "cofe de latte",
+            "type": "coffee"
+        },
+        {
+            "name": "pinachhio",
+            "type": "coffee"
+        },
+        {
+            "name": "black magic",
+            "type": "coffee"
+        },
+        {
+            "name": "lemon tea",
+            "type": "tea"
+        },
+        {
+            "name": "cocacola",
+            "type": "soft-drink"
+        }
+    ]
+}
